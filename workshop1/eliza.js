@@ -40,13 +40,12 @@ var rules = {
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
-  "~*x name ~*y": [
-    "I am not interested in names",
+  "~*x is valid ~*y": [
+    "facts my guy send me that",
   ],
-  "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+  "~*x im in my bag ~*y": [
+    "facts what happened",
+    "\lol u not a boogie"
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
